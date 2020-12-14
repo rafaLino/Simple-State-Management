@@ -1,4 +1,6 @@
-# GlobalStoreApp
+# Simple State Management App
+
+This is a simple example of an alternative for managing states using BehaviourSubject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
